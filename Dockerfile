@@ -1,2 +1,2 @@
-FROM quay.io/kpavic/konflux-test@sha256:2e4d8cc3de3b002a6f011990989a6ec250ad9993b9a27cfedac044509d98bc10
+FROM quay.io/redhat-user-workloads-stage/rhtap-integration-tenant/konflux-test-fork@sha256:af8aa23682f2b47c38896839d3512fedc34fc9c39df829d572a2ee1a8a902fd6
 LABEL "com.example.vendor"="Konflux Integration"
